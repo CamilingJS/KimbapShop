@@ -35,7 +35,7 @@ const products = [
     category: 'Electronics',
     price: 19.99,
     countInStock: 5,
-    rating: 3,
+    rating: 3.5,
     numReviews: 12,
   },
   {
@@ -54,7 +54,7 @@ const products = [
   {
     _id: '5',
     name: 'BTS Funky Youth Shirt',
-    image: '/images/BTS-FunkyKids/BTS Funky_Design_MockUpV3.PNG',
+    image: '/images/BTS-FunkyKids/BTS_Funky_Design_MockUpV1.png',
     description:
       'Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience',
     brand: 'Logitech',
