@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: '1',
     name: 'Oversied Hoodie',
     image: '/images/kimbaphoodie.jpg',
     description:
@@ -13,7 +12,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '2',
     name: 'BTS Crop Top',
     image: '/images/BTS-Nested-Logo/BTSCropTopMockUpV9.PNG',
     description:
@@ -26,7 +24,6 @@ const products = [
     numReviews: 8,
   },
   {
-    _id: '3',
     name: 'BTS Army Shield',
     image: '/images/BTS-Army/girl-sitting-on-steps.PNG',
     description:
@@ -39,7 +36,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '4',
     name: 'Friends Theme - Taehyung',
     image: '/images/BTS-Friends/TaehyungMockUpV2.PNG',
     description:
@@ -52,7 +48,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '5',
     name: 'BTS Funky Youth Shirt',
     image: '/images/BTS-FunkyKids/BTS_Funky_Design_MockUpV1.png',
     description:
@@ -65,7 +60,6 @@ const products = [
     numReviews: 10,
   },
   {
-    _id: '6',
     name: 'Grind & Be Kind',
     image: '/images/GrindandBeKind/GrindandBeKindMockUpV8.PNG',
     description:
